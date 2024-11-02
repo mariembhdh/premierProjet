@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: MARIEM
+Build-Jdk: 17.0.7
+Main-Class: dev.ms.maven.MonApp
+Created-By: Maven Integration for Eclipse
+
